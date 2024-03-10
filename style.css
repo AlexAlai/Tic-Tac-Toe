@@ -1,0 +1,53 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Honk&display=swap');
+
+
+td{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px #0007;
+}
+table{
+    border-collapse: collapse;
+    background-color: lightcoral;
+    box-shadow: 5px 5px 5px #0007 inset;
+    margin: auto;
+}
+button{
+    margin: 15px;
+    border-radius: 5px;
+    box-shadow: 7px 7px 5px rgba(0, 0, 0, 0.628);
+    background-color: lightblue;
+    padding: 5px ;
+}
+.main{
+    border: 1px solid black;
+    color: greenyellow;
+    background-color: lightcoral;
+    padding: 50px;
+    margin: 100px auto;
+    width: 300px;
+    box-shadow: 15px 15px 5px rgba(0, 0, 0, 0.808);
+    border-radius: 50px;
+}
+body{
+    /* background-color: greenyellow; */
+    background: url("pngtree-cool-neon-star-4k-uhd-glowing-abstract-background-in-blue-and-image_3705285.jpg") center/cover no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow: hidden;
+}
+input{
+    background-color: greenyellow;
+    box-shadow: 5px 5px 5px #0007 inset;
+}
+h1{
+    font-family: 'Honk', system-ui;
+}
+p{
+    font-family: 'Dancing Script', cursive;
+}
